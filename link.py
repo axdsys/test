@@ -32,7 +32,7 @@ BANNER = f"""{Fore.MAGENTA}
 ███████╗██║██║ ╚████║██║  ██╗██║  ██╗██║     ██║     ███████║   ██║   
 ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═╝     ╚══════╝   ╚═╝   
 {Style.RESET_ALL}
-{Fore.CYAN}Author: Arshad | Nickname: ??? | Version: v1{Style.RESET_ALL}
+{Fore.CYAN}Author: Arshad | Version: v1{Style.RESET_ALL}
 """
 
 # Entry message
